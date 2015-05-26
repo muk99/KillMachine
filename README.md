@@ -12,33 +12,6 @@ KillMachine (AudioUnitEffect)
 ## Requirement
 
 ## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)
-
-
-
-
-
-
-
-======================
-
-
-
-使い方
-------
-パラメータの解説
-----------------
 入力信号を指定された時間でオン・オフをひたすら繰り返すだけのエフェクターです。
 +   `Dead Length` :
     音を切る(スイッチオフにする)にする時間の長さ
@@ -46,6 +19,18 @@ KillMachine (AudioUnitEffect)
 +   `Alive Length` :
     音を鳴らす(スイッチオンにする)にする時間の長さ
 
-ライセンス
-----------
+## Install
+
+## Contribution
+
+## Licence
+Copyright &copy; 2015 muk
+Distributed under the [MIT License][mit].
+
+[MIT]: http://www.opensource.org/licenses/mit-license.php
+
+## Author
+
+[tcnksm](http://muk99.hateblo.jp/)
+
 
