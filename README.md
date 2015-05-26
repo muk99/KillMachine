@@ -1,6 +1,38 @@
 KillMachine (AudioUnitEffect)
-======================
+====
 エレキギターの特殊奏法の一つである、スイッチング奏法を超高速で行うエフェクターです。
+
+## Description
+
+
+## Demo
+
+## VS. 
+
+## Requirement
+
+## Usage
+
+## Install
+
+## Contribution
+
+## Licence
+
+[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+
+## Author
+
+[tcnksm](https://github.com/tcnksm)
+
+
+
+
+
+
+
+======================
+
 
 
 使い方
@@ -16,7 +48,4 @@ KillMachine (AudioUnitEffect)
 
 ライセンス
 ----------
-Copyright &copy; 2015 muk
-Distributed under the [MIT License][mit].
 
-[MIT]: http://www.opensource.org/licenses/mit-license.php
