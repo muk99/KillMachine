@@ -2,6 +2,8 @@ KillMachine (AudioUnitEffect)
 ===
 エレキギターの特殊奏法の一つである、スイッチング奏法を超高速で行うAudioUnitEffectです。非常に簡素なプログラムなのでこれを参考にしてAudioUnitを作ってください。
 
+君も憧れのTom MorelloやBucketheadになれるかも！
+
 ## Demo
 Comming Soon
 
