@@ -1,5 +1,5 @@
 KillMachine (AudioUnitEffect)
-====
+***
 エレキギターの特殊奏法の一つである、スイッチング奏法を超高速で行うAudioUnitEffectです。
 
 ## Demo
