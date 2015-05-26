@@ -49,7 +49,7 @@ KillMachine (AudioUnitEffect)
  
 ライセンス
 ----------
-Copyright &copy; 2011 xxxxxx
+Copyright &copy; 2015 muk
 Distributed under the [MIT License][mit].
 
 [MIT]: http://www.opensource.org/licenses/mit-license.php
