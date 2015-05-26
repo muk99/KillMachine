@@ -8,8 +8,7 @@ KillMachine (AudioUnitEffect)
 Comming Soon!!
 
 ## Requirement
-xcodeprojファイルなので、ビルドする際はXcodeが必要です。
-また、GarageBand, AU LabなどのAudioUnitsが対応したソフトウェアで読み込むことで使えます。
+GarageBand, AU LabなどのAudioUnitsが対応したソフトウェアで読み込むことで使えます。
 
 ## Usage
 入力信号を指定された時間でON・OFFをひたすら繰り返すだけのエフェクターです。
