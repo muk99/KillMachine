@@ -26,8 +26,8 @@ xcodeprojファイルなので、ビルドする際はXcodeが必要です。
 ## Other
 中身を弄る際にデバッグをしたい方は以下の方法を用意しています。他の方法でも大丈夫ですが・・・。
 
-
 * killmachine.cppに#define DEBUG_PATH ""がコメントアウトされているので、""の中にディレクトリ内にあるdebug.txtのパスを書き込んでコメントアウトを外してください。そうすると、初期状態では変数stateとDead LengthとAlive Lengthの合計値、またON・OFFの状態がdebug.txtに書き込まれるはずです。
+
 * もしデバッグを外したい場合は先ほどの#define DEBUG_PATHをコメントアウトしてください。 
 
 
