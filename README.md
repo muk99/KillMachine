@@ -1,5 +1,5 @@
 KillMachine (AudioUnitEffect)
-***
+===
 エレキギターの特殊奏法の一つである、スイッチング奏法を超高速で行うAudioUnitEffectです。
 
 ## Demo
@@ -29,9 +29,6 @@ xcodeprojファイルなので、ビルドする際はXcodeが必要です。
 * killmachine.cppに#define DEBUG_PATH ""がコメントアウトされているので、""の中にディレクトリ内にあるdebug.txtのパスを書き込んでコメントアウトを外してください。そうすると、初期状態では変数stateとDead LengthとAlive Lengthの合計値、またON・OFFの状態がdebug.txtに書き込まれます。
 * 書き込む内容を変える際は、debugを利用してください。
 * もしデバッグを外したい場合は先ほどの#define DEBUG_PATHをコメントアウトしてください。 
-
-
-
 
 ## Licence
 Copyright &copy; 2015 muk
